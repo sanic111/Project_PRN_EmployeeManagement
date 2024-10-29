@@ -19,8 +19,18 @@ namespace WPFApp
             _context = new PRN_EmployeeManagementContext();
            
         }
+        private void ManageUsersAccount_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+            UserAccountManagement userAccountManagementWindow = new UserAccountManagement();
+            userAccountManagementWindow.ShowDialog();
+        }
 
-      
-            
+        private void ManageEmployeesAccount_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+            EmployeesManagementWindow employeesManagementWindow = new EmployeesManagementWindow();
+            employeesManagementWindow.ShowDialog();
+        }
     }
 }

@@ -1,269 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\",
+  "WorkspaceRootPath": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\managementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\managementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\managementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\managementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\managementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\prn_employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\prn_employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\managementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\managementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\rolesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\rolesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\activitylogsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\activitylogsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\iemployeesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iemployeesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\employeesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\employeesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\departmentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\departmentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\leavebalances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\leavebalances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\activitylogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\activitylogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\notificationsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\notificationsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\leavebalancesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\leavebalancesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\salariesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\salariesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\notificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\notificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\leavebalancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\leavebalancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\isalariesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\isalariesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\irolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\irolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\inotificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\inotificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\ileavebalancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\ileavebalancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\iemployeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\idepartmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\idepartmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\iactivitylogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\iactivitylogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\activitylogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\activitylogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\iactivitylogsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iactivitylogsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\activitylogsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\activitylogsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\inotificationsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\inotificationsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\notificationsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\notificationsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\ileavebalancesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ileavebalancesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\leavebalancesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\leavebalancesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\iattendancerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iattendancerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\attendancerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\attendancerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\isalariesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\isalariesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\salariesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\salariesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\idepartmentsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\idepartmentsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\departmentsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\departmentsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\iusersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iusersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\usersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\usersrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\irolesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irolesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\repositories\\rolesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E393F39-0E8E-44C6-AB6B-0758309E33B7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\rolesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\salariesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\salariesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\employeesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\employeesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -273,806 +42,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManagementWindow.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\ManagementWindow.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml",
-              "RelativeToolTip": "WPFApp\\ManagementWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T06:01:07.878Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ManagementWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\ManagementWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\ManagementWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T18:50:02.627Z",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T08:20:35.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomerWindow.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
-              "RelativeToolTip": "WPFApp\\CustomerWindow.xaml",
+              "Title": "ManagementWindow.xaml",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\ManagementWindow.xaml",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml",
+              "RelativeToolTip": "WPFApp\\ManagementWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-25T13:14:03.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerWindow.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
-              "RelativeToolTip": "WPFApp\\CustomerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-25T13:18:33.454Z",
+              "WhenOpened": "2024-10-29T08:19:39.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\CustomerWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:48:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Employees.cs",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Employees.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:47:54.394Z",
+              "WhenOpened": "2024-10-29T07:33:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesManagementWindow.xaml",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
+              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:13:37.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PRN_EmployeeManagementContext.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA3wCcAAAAuAAAAAAAAAA==",
+              "Title": "ManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ManagementWindow.xaml.cs",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\ManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\ManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T18:52:07.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Users.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Users.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Users.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Users.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:22:41.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RolesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\RolesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\RolesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\RolesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\RolesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:34:13.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAnwCEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:37:03.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Roles.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Roles.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Roles.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Roles.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:22:30.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\appsettings.json",
-              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\appsettings.json",
-              "RelativeToolTip": "WPFApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-25T07:26:11.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ActivityLogsDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\ActivityLogsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ActivityLogsDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\ActivityLogsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\ActivityLogsDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:31:52.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Attendances.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Attendances.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Attendances.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:23:24.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IEmployeesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IEmployeesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\IEmployeesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IEmployeesRepositories.cs",
-              "RelativeToolTip": "Repositories\\IEmployeesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:38:10.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DepartmentsDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DepartmentsDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\DepartmentsDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:33:15.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AttendanceDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\AttendanceDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\AttendanceDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:33:05.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\EmployeesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\EmployeesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\EmployeesRepositories.cs",
-              "RelativeToolTip": "Repositories\\EmployeesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:38:04.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LeaveBalances.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\LeaveBalances.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\LeaveBalances.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\LeaveBalances.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\LeaveBalances.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:23:36.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ActivityLogs.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\ActivityLogs.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\ActivityLogs.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\ActivityLogs.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\ActivityLogs.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:24:00.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Microsoft.WinFX.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAWwNIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-10-25T09:39:37.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Program.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\Program.cs",
-              "RelativeToolTip": "Services\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:25:48.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\Program.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Program.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\Program.cs",
-              "RelativeToolTip": "DataAccessLayer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T09:25:45.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Employees.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Employees.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAxwDUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:23:06.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Notifications.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Notifications.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Notifications.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Notifications.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Notifications.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:23:45.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Salaries.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Salaries.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Salaries.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Salaries.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Salaries.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:23:15.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Departments.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Departments.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Departments.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Departments.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Departments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:22:58.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "NotificationsDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\NotificationsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\NotificationsDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\NotificationsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\NotificationsDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:33:58.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LeaveBalancesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\LeaveBalancesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\LeaveBalancesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\LeaveBalancesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\LeaveBalancesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:33:39.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\UsersService.cs",
-              "RelativeDocumentMoniker": "Services\\UsersService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\UsersService.cs",
-              "RelativeToolTip": "Services\\UsersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:48:51.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SalariesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\SalariesService.cs",
-              "RelativeDocumentMoniker": "Services\\SalariesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\SalariesService.cs",
-              "RelativeToolTip": "Services\\SalariesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:48:43.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "RolesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\RolesService.cs",
-              "RelativeDocumentMoniker": "Services\\RolesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\RolesService.cs",
-              "RelativeToolTip": "Services\\RolesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:48:39.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "NotificationsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\NotificationsService.cs",
-              "RelativeDocumentMoniker": "Services\\NotificationsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\NotificationsService.cs",
-              "RelativeToolTip": "Services\\NotificationsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:48:21.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "LeaveBalancesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\LeaveBalancesService.cs",
-              "RelativeDocumentMoniker": "Services\\LeaveBalancesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\LeaveBalancesService.cs",
-              "RelativeToolTip": "Services\\LeaveBalancesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:48:18.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IUsersService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IUsersService.cs",
-              "RelativeDocumentMoniker": "Services\\IUsersService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IUsersService.cs",
-              "RelativeToolTip": "Services\\IUsersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:48:02.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ISalariesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\ISalariesService.cs",
-              "RelativeDocumentMoniker": "Services\\ISalariesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\ISalariesService.cs",
-              "RelativeToolTip": "Services\\ISalariesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:47:55.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IRolesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IRolesService.cs",
-              "RelativeDocumentMoniker": "Services\\IRolesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IRolesService.cs",
-              "RelativeToolTip": "Services\\IRolesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:47:24.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "INotificationsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\INotificationsService.cs",
-              "RelativeDocumentMoniker": "Services\\INotificationsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\INotificationsService.cs",
-              "RelativeToolTip": "Services\\INotificationsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:47:16.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ILeaveBalancesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\ILeaveBalancesService.cs",
-              "RelativeDocumentMoniker": "Services\\ILeaveBalancesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\ILeaveBalancesService.cs",
-              "RelativeToolTip": "Services\\ILeaveBalancesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:47:00.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IEmployeesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IEmployeesService.cs",
-              "RelativeDocumentMoniker": "Services\\IEmployeesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IEmployeesService.cs",
-              "RelativeToolTip": "Services\\IEmployeesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:46:42.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IDepartmentsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IDepartmentsService.cs",
-              "RelativeDocumentMoniker": "Services\\IDepartmentsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IDepartmentsService.cs",
-              "RelativeToolTip": "Services\\IDepartmentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:46:31.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IAttendanceService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IAttendanceService.cs",
-              "RelativeDocumentMoniker": "Services\\IAttendanceService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IAttendanceService.cs",
-              "RelativeToolTip": "Services\\IAttendanceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:46:10.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IActivityLogsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IActivityLogsService.cs",
-              "RelativeDocumentMoniker": "Services\\IActivityLogsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\IActivityLogsService.cs",
-              "RelativeToolTip": "Services\\IActivityLogsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:46:17.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "EmployeesService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\EmployeesService.cs",
-              "RelativeDocumentMoniker": "Services\\EmployeesService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\EmployeesService.cs",
-              "RelativeToolTip": "Services\\EmployeesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:46:20.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "DepartmentsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
-              "RelativeDocumentMoniker": "Services\\DepartmentsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
-              "RelativeToolTip": "Services\\DepartmentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:46:20.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "AttendanceService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\AttendanceService.cs",
-              "RelativeDocumentMoniker": "Services\\AttendanceService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\AttendanceService.cs",
-              "RelativeToolTip": "Services\\AttendanceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:50:10.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ActivityLogsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\ActivityLogsService.cs",
-              "RelativeDocumentMoniker": "Services\\ActivityLogsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\ActivityLogsService.cs",
-              "RelativeToolTip": "Services\\ActivityLogsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:49:46.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IActivityLogsRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IActivityLogsRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\IActivityLogsRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IActivityLogsRepositories.cs",
-              "RelativeToolTip": "Repositories\\IActivityLogsRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:40:33.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ActivityLogsRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\ActivityLogsRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\ActivityLogsRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\ActivityLogsRepositories.cs",
-              "RelativeToolTip": "Repositories\\ActivityLogsRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:40:24.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "INotificationsRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\INotificationsRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\INotificationsRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\INotificationsRepositories.cs",
-              "RelativeToolTip": "Repositories\\INotificationsRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:40:11.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "NotificationsRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\NotificationsRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\NotificationsRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\NotificationsRepositories.cs",
-              "RelativeToolTip": "Repositories\\NotificationsRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:40:02.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "ILeaveBalancesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\ILeaveBalancesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\ILeaveBalancesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\ILeaveBalancesRepositories.cs",
-              "RelativeToolTip": "Repositories\\ILeaveBalancesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:39:45.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "LeaveBalancesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\LeaveBalancesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\LeaveBalancesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\LeaveBalancesRepositories.cs",
-              "RelativeToolTip": "Repositories\\LeaveBalancesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:39:37.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IAttendanceRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IAttendanceRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\IAttendanceRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IAttendanceRepositories.cs",
-              "RelativeToolTip": "Repositories\\IAttendanceRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:39:24.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "AttendanceRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\AttendanceRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\AttendanceRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\AttendanceRepositories.cs",
-              "RelativeToolTip": "Repositories\\AttendanceRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:39:11.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "ISalariesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\ISalariesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\ISalariesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\ISalariesRepositories.cs",
-              "RelativeToolTip": "Repositories\\ISalariesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:38:43.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "SalariesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\SalariesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\SalariesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\SalariesRepositories.cs",
-              "RelativeToolTip": "Repositories\\SalariesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:38:33.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "IDepartmentsRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IDepartmentsRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\IDepartmentsRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IDepartmentsRepositories.cs",
-              "RelativeToolTip": "Repositories\\IDepartmentsRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:37:42.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "UsersDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\UsersDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UsersDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\UsersDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\UsersDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:34:35.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "DepartmentsRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\DepartmentsRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\DepartmentsRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\DepartmentsRepositories.cs",
-              "RelativeToolTip": "Repositories\\DepartmentsRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:37:35.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "IUsersRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IUsersRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUsersRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IUsersRepositories.cs",
-              "RelativeToolTip": "Repositories\\IUsersRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:37:06.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "UsersRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\UsersRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsersRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\UsersRepositories.cs",
-              "RelativeToolTip": "Repositories\\UsersRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:36:49.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "IRolesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IRolesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\IRolesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\IRolesRepositories.cs",
-              "RelativeToolTip": "Repositories\\IRolesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:36:34.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "RolesRepositories.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\RolesRepositories.cs",
-              "RelativeDocumentMoniker": "Repositories\\RolesRepositories.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\RolesRepositories.cs",
-              "RelativeToolTip": "Repositories\\RolesRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:36:20.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "SalariesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\SalariesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\SalariesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\SalariesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\SalariesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:34:22.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "EmployeesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\EmployeesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\EmployeesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\EmployeesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:33:25.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
-              "RelativeToolTip": "WPFApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T06:00:57.878Z",
+              "WhenOpened": "2024-10-29T06:49:28.549Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
+              "RelativeToolTip": "WPFApp\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T07:04:10.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:50:58.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

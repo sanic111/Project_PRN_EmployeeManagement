@@ -16,10 +16,10 @@
 
         <!-- Sidebar với các nút chức năng -->
         <StackPanel Grid.Column="0" Background="#EAEAEA" Margin="5">
-            <Button Content="Manage Users" Height="40" Margin="5"
-                    Background="#007ACC" Foreground="White" FontWeight="Bold"/>
-            <Button Content="Manage Employees" Height="40" Margin="5"
-                    Background="#007ACC" Foreground="White" FontWeight="Bold"/>
+            <Button x:Name="ManageUsersAccount" Content="Manage Users Account" Height="40" Margin="5"
+                    Background="#007ACC" Foreground="White" FontWeight="Bold" Click="ManageUsersAccount_Click"/>
+            <Button x:Name="ManageEmployeesAccount" Content="Manage Employees" Height="40" Margin="5"
+                    Background="#007ACC" Foreground="White" FontWeight="Bold" Click="ManageEmployeesAccount_Click"/>
             <Button Content="Manage Departments" Height="40" Margin="5"
                     Background="#007ACC" Foreground="White" FontWeight="Bold"/>
             <Button Content="Manage Salaries" Height="40" Margin="5"
