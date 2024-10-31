@@ -1,0 +1,162 @@
+﻿<Window x:Class="WPFApp.EmployeeDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp"
+        mc:Ignorable="d"
+        Title="Employee Detail"
+        Height="600"
+        Width="500"
+        WindowStartupLocation="CenterScreen">
+
+    <ScrollViewer>
+        <StackPanel Margin="20">
+            <!-- Avatar Section -->
+            <StackPanel HorizontalAlignment="Center"
+                        Margin="0,0,0,20">
+                <Border Width="150"
+                        Height="150"
+                        BorderBrush="#007ACC"
+                        BorderThickness="2"
+                        Margin="0,0,0,10">
+                    <Image x:Name="ImgAvatar"
+                           Stretch="UniformToFill"/>
+                </Border>
+                <Button x:Name="ButtonUploadImage"
+                        Content="Upload Image"
+                        Width="120"
+                        Click="ButtonUploadImage_Click"/>
+            </StackPanel>
+
+            <!-- Employee Information -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Full Name -->
+                <TextBlock Text="Full Name:"
+                           Grid.Row="0"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <TextBox x:Name="TextBoxFullName"
+                         Grid.Row="0"
+                         Grid.Column="1"
+                         Margin="5"/>
+
+                <!-- Birth Date -->
+                <TextBlock Text="Birth Date:"
+                           Grid.Row="1"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <DatePicker x:Name="DatePickerBirthDate"
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Margin="5"/>
+
+                <!-- Gender -->
+                <TextBlock Text="Gender:"
+                           Grid.Row="2"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <ComboBox x:Name="ComboBoxGender"
+                          Grid.Row="2"
+                          Grid.Column="1"
+                          Margin="5">
+                    <ComboBoxItem Content="Male"/>
+                    <ComboBoxItem Content="Female"/>
+                </ComboBox>
+
+                <!-- Address -->
+                <TextBlock Text="Address:"
+                           Grid.Row="3"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <TextBox x:Name="TextBoxAddress"
+                         Grid.Row="3"
+                         Grid.Column="1"
+                         Margin="5"/>
+
+                <!-- Phone -->
+                <TextBlock Text="Phone:"
+                           Grid.Row="4"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <TextBox x:Name="TextBoxxtPhone"
+                         Grid.Row="4"
+                         Grid.Column="1"
+                         Margin="5"/>
+
+                <!-- Department -->
+                <TextBlock Text="Department:"
+                           Grid.Row="5"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <ComboBox x:Name="ComboBoxDepartment"
+                          Grid.Row="5"
+                          Grid.Column="1"
+                          Margin="5"
+                          DisplayMemberPath="DepartmentName"
+                          SelectedValuePath="DepartmentID"/>
+
+                <!-- Position -->
+                <TextBlock Text="Position:"
+                           Grid.Row="6"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <TextBox x:Name="TextBoxxtPosition"
+                         Grid.Row="6"
+                         Grid.Column="1"
+                         Margin="5"/>
+
+                <!-- Salary -->
+                <TextBlock Text="Base Salary:"
+                           Grid.Row="7"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <TextBox x:Name="TextBoxtBaseSalary"
+                         Grid.Row="7"
+                         Grid.Column="1"
+                         Margin="5"/>
+
+                <!-- Start Date -->
+                <TextBlock Text="Start Date:"
+                           Grid.Row="8"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"/>
+                <DatePicker x:Name="DatePickerStartDate"
+                            Grid.Row="8"
+                            Grid.Column="1"
+                            Margin="5"/>
+            </Grid>
+
+            <!-- Buttons -->
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        Margin="0,20,0,0">
+                <Button x:Name="ButtonSave"
+                        Content="Save"
+                        Width="80"
+                        Margin="0,0,10,0"
+                        Click="ButtonSave_Click"/>
+                <Button x:Name="ButtonCancel"
+                        Content="Cancel"
+                        Width="80"
+                        Click="ButtonCancel_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
