@@ -23,23 +23,22 @@ namespace WPFApp
             using (var context = new PRN_EmployeeManagementContext())
             {
                 // Tìm kiếm người dùng theo tên đăng nhập
-               
                 var user = context.Users
-                   .FirstOrDefault(u => u.Username == username && u.Password == password);
+                    .FirstOrDefault(u => u.Username == username && u.Password == password);
 
                 if (user != null)
                 {
-                    //Kiểm tra vai trò
+                    // Kiểm tra vai trò
                     if (user.RoleID == 1)
                     {
-                        this.Close();
-                        ManagementWindow managementWindow = new ManagementWindow();
+                        this.Hide();
+                        EmployeesManagementWindow managementWindow = new EmployeesManagementWindow();
                         managementWindow.Show();
                     }
-                    else if (user.RoleID==2)
+                    else if (user.RoleID == 2)
                     {
                         this.Hide();
-                        CustomerWindow customerWindow = new CustomerWindow(); // Tạo CustomerWindow
+                        CustomerWindow customerWindow = new CustomerWindow("Customer"); // Pass "Customer" as role
                         customerWindow.Show();
                     }
                 }
@@ -49,5 +48,6 @@ namespace WPFApp
                 }
             }
         }
+
     }
 }

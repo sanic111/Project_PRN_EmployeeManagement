@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj": {}
+    "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\obj\\",
+        "projectPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
+        "outputPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualCodeComponents\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -52,23 +52,23 @@
           "dependencies": {
             "EPPlus": {
               "target": "Package",
-              "version": "[7.4.1, )"
+              "version": "[7.4.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
@@ -95,20 +95,20 @@
         }
       }
     },
-    "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\obj\\",
+        "projectPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
+        "outputPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualCodeComponents\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,8 +124,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -147,7 +147,7 @@
           "dependencies": {
             "EPPlus": {
               "target": "Package",
-              "version": "[7.4.1, )"
+              "version": "[7.4.2, )"
             }
           },
           "imports": [
@@ -170,20 +170,20 @@
         }
       }
     },
-    "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj": {
+    "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\obj\\",
+        "projectPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
+        "outputPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualCodeComponents\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -199,11 +199,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -225,7 +225,7 @@
           "dependencies": {
             "EPPlus": {
               "target": "Package",
-              "version": "[7.4.1, )"
+              "version": "[7.4.2, )"
             }
           },
           "imports": [

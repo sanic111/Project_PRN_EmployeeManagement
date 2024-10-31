@@ -25,16 +25,20 @@
                 Margin="5">
             <Button x:Name="CreateEmployee"
                     Content="Create New Employee" Height="40" Margin="5"
-                    Background="#007ACC" Foreground="White" FontWeight="Bold"
+                    Background="LightBlue" Foreground="Black" FontWeight="Bold"
                     Click="CreateEmployee_Click"/>
             <Button x:Name="EditEmployee"
                     Content="Edit Employee" Height="40" Margin="5"
-                    Background="#007ACC" Foreground="White" FontWeight="Bold"
+                    Background="LightBlue" Foreground="Black" FontWeight="Bold"
                     Click="EditEmployee_Click"/>
             <Button x:Name="DeleteEmployee"
                     Content="Delete Employee" Height="40" Margin="5"
-                    Background="#007ACC" Foreground="White" FontWeight="Bold"
+                   Background="LightBlue" Foreground="Black" FontWeight="Bold"
                     Click="DeleteEmployee_Click"/>
+            <Button x:Name="AttendanceCheck"
+                Content="Attendance Check" Height="40"
+                Background="LightBlue" Foreground="Black" FontWeight="Bold"
+                Click="DeleteEmployee_Click" Width="180"/>
         </StackPanel>
 
         <!-- Top Panel - Search & Filter -->

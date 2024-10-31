@@ -65,7 +65,7 @@ namespace WPFApp
 
             int employeeId = ((EmployeeAttendance)DataGridAttendance.SelectedItem).EmployeeId;
             //AdminView.SalaryDetail salaryDetail = new AdminView.SalaryDetail(employeeId);
-           // salaryDetail.Show();
+            // salaryDetail.Show();
             this.Close();
 
         }
