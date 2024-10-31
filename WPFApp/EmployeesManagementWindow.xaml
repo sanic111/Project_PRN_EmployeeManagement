@@ -5,36 +5,136 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFApp"
         mc:Ignorable="d"
-        Title="EmployeesManagementWindow" Height="450" Width="800">
+        Title="Employee Management"
+        Height="600"
+        Width="1000">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <StackPanel Grid.Column="0" Background="#EAEAEA" Margin="5">
-            <Button x:Name="CreateEmployee" Content="Create New Employee" Height="40" Margin="5"
-                Background="#007ACC" Foreground="White" FontWeight="Bold"/>
-            <Button x:Name="EditEmployee" Content="Edit Employee Information" Height="40" Margin="5"
-                Background="#007ACC" Foreground="White" FontWeight="Bold"/>
-            <Button x:Name="DeleteEmployee" Content="Delete Employee" Height="40" Margin="5"
-                    Background="#007ACC" Foreground="White" FontWeight="Bold"/>
+
+        <!-- Left Panel - Actions -->
+        <StackPanel Grid.Column="0"
+                Grid.RowSpan="2"
+                Background="#EAEAEA"
+                Margin="5">
+            <Button x:Name="CreateEmployee"
+                    Content="Create New Employee" Height="40" Margin="5"
+                    Background="#007ACC" Foreground="White" FontWeight="Bold"
+                    Click="CreateEmployee_Click"/>
+            <Button x:Name="EditEmployee"
+                    Content="Edit Employee" Height="40" Margin="5"
+                    Background="#007ACC" Foreground="White" FontWeight="Bold"
+                    Click="EditEmployee_Click"/>
+            <Button x:Name="DeleteEmployee"
+                    Content="Delete Employee" Height="40" Margin="5"
+                    Background="#007ACC" Foreground="White" FontWeight="Bold"
+                    Click="DeleteEmployee_Click"/>
         </StackPanel>
-        <Border Grid.Column="1" BorderBrush="#007ACC" BorderThickness="1" Margin="5">
-            <DataGrid ItemsSource="{Binding}" AutoGenerateColumns="False" Margin="-6,0,0,0">
-                <DataGrid.Columns>
-                    <DataGridTextColumn Header="ID" Width="30" Binding="{Binding EmployeeID}"/>
-                    <DataGridTextColumn Header="Full Name" Width="*" Binding="{Binding FullName}"/>
-                    <DataGridTextColumn Header="Profile Image" Width="*" Binding="{Binding AvatarPath}"/>
-                    <DataGridTextColumn Header="Birth Date" Width="*" Binding="{Binding BirthDate}"/>
-                    <DataGridTextColumn Header="Gender" Width="*" Binding="{Binding Gender}"/>
-                    <DataGridTextColumn Header="Address" Width="*" Binding="{Binding Address}"/>
-                    <DataGridTextColumn Header="Phone" Width="*" Binding="{Binding Phone}"/>
-                    <DataGridTextColumn Header="Department" Width="*" Binding="{Binding DepartmentID}"/>
-                    <DataGridTextColumn Header="Position" Width="*" Binding="{Binding Position}"/>
-                    <DataGridTextColumn Header="BaseSalary" Width="*" Binding="{Binding BaseSalary}"/>
-                    <DataGridTextColumn Header="StartDate" Width="*" Binding="{Binding StartDate}"/>
-                </DataGrid.Columns>
-            </DataGrid>
-        </Border>
+
+        <!-- Top Panel - Search & Filter -->
+        <StackPanel Grid.Column="1"
+                Margin="5"
+                Orientation="Vertical">
+            <!-- Search -->
+            <GroupBox Header="Search">
+                <StackPanel Orientation="Horizontal"
+                        Margin="5">
+                    <TextBox x:Name="TextBoxSearch"
+                            Width="200"
+                            Margin="0,0,5,0"/>
+                    <ComboBox x:Name="ComboBoxSearchBy"
+                            Width="120"
+                            Margin="0,0,5,0">
+                        <ComboBoxItem Content="Full Name"/>
+                        <ComboBoxItem Content="Department"/>
+                        <ComboBoxItem Content="Position"/>
+                    </ComboBox>
+                    <Button x:Name="ButtonSearch" Content="Search"
+                            Width="80" Click="ButtonSearch_Click"/>
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Filters -->
+            <GroupBox Header="Filters">
+                <WrapPanel Margin="5">
+                    <ComboBox x:Name="ComboBoxDepartment"
+                            Width="120"
+                            Margin="0,0,5,0"
+                              DisplayMemberPath="DepartmentName"
+                              SelectedValuePath="DepartmentID"/>
+                    <ComboBox x:Name="ComboBoxGender"
+                            Width="100"
+                            Margin="0,0,5,0">
+                        <ComboBoxItem Content="All"/>
+                        <ComboBoxItem Content="Male"/>
+                        <ComboBoxItem Content="Female"/>
+                    </ComboBox>
+                    <TextBox x:Name="TextBoxMinSalary"
+                            Width="100"
+                            Margin="0,0,5,0"
+                             ToolTip="Min Salary"/>
+                    <TextBox x:Name="TextBoxMaxSalary"
+                            Width="100"
+                            Margin="0,0,5,0"
+                             ToolTip="Max Salary"/>
+                    <Button x:Name="ButtonApplyFilter" Content="Apply Filters"
+                            Width="80" Click="ButtonApplyFilter_Click"/>
+                    <Button x:Name="ButtonClearFilter" Content="Clear Filters"
+                            Width="80" Click="ButtonClearFilter_Click"/>
+                </WrapPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid Grid.Column="1"
+                Grid.Row="1"
+                x:Name="DataGridEmployees"
+                  AutoGenerateColumns="False"
+                Margin="5"
+                  SelectionMode="Single"
+                SelectionUnit="FullRow" MouseDoubleClick="DataGridEmployees_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID"
+                        Binding="{Binding EmployeeID}"
+                        Width="50"/>
+                <DataGridTextColumn Header="Full Name"
+                        Binding="{Binding FullName}"
+                        Width="*"/>
+                <DataGridTemplateColumn Header="Profile Image"
+                        Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding AvatarPath}"
+                                    Width="50"
+                                    Height="50"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Birth Date"
+                        Binding="{Binding BirthDate, StringFormat=dd/MM/yyyy}"
+                        Width="100"/>
+                <DataGridTextColumn Header="Gender"
+                        Binding="{Binding Gender}"
+                        Width="80"/>
+                <DataGridTextColumn Header="Department"
+                        Binding="{Binding Departments.DepartmentName}"
+                        Width="120"/>
+                <DataGridTextColumn Header="Position"
+                        Binding="{Binding Position}"
+                        Width="100"/>
+                <DataGridTextColumn Header="Salary"
+                        Binding="{Binding BaseSalary, StringFormat=N0}"
+                        Width="100"/>
+                <DataGridTextColumn Header="Start Date"
+                        Binding="{Binding StartDate, StringFormat=dd/MM/yyyy}"
+                        Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>

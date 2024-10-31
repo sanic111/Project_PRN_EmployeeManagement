@@ -36,7 +36,7 @@ namespace BusinessObjects.Models
         [StringLength(50)]
         public string? Position { get; set; }
 
-        public float BaseSalary { get; set; }
+        public double BaseSalary { get; set; }
 
         [Required]
         public DateTime StartDate { get; set; }
