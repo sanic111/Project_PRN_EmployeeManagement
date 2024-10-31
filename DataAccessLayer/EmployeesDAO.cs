@@ -11,10 +11,13 @@ namespace DataAccessLayer
 {
     public class EmployeesDAO
     {
-        private PRN_EmployeeManagementContext _context;
-        public List<Employees> GetAll()
+        private readonly PRN_EmployeeManagementContext _context;
+        public EmployeesDAO()
         {
             _context = new();
+        }
+        public List<Employees> GetAll()
+        {
             return _context.Employees.Include(e => e.Departments).ToList();
         }
         //Get By Id
@@ -26,14 +29,34 @@ namespace DataAccessLayer
         //Create
         public void Add(Employees employees)
         {
-            _context.Employees.Add(employees);
-            _context.SaveChanges();
+            try
+            {
+                _context.Employees.Add(employees);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error adding employee: {ex.Message}", ex);
+            }
         }
         //Update
         public void Update(Employees employees)
         {
-            _context.Employees.Update(employees);
-            _context.SaveChanges();
+            try
+            {
+                var existingEmployee = _context.Employees.Find(employees.EmployeeID);
+                if (existingEmployee == null)
+                {
+                    throw new KeyNotFoundException($"Employee with ID {employees.EmployeeID} not found");
+                }
+
+                _context.Entry(existingEmployee).CurrentValues.SetValues(employees);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error updating employee: {ex.Message}", ex);
+            }
         }
         //Delete
         public void Delete(Employees employees)
