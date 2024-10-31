@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\",
+  "WorkspaceRootPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\wpfapp\\attendancelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\attendancelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\wpfapp\\attendancelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\attendancelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\businessobjects\\models\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\businessobjects\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\dataaccesslayer\\prn_employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\prn_employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\dataaccesslayer\\departmentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\departmentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\local repositories\\c# source\\repo\\project_prn_employeemanagement\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\visualstudio\\source\\repos\\new folder\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,125 +62,119 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeDetailWindow.xaml",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml",
-              "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T07:42:53.899Z",
+              "WhenOpened": "2024-10-31T14:33:00.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeDetailWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAswBYAAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AttendanceList.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AttendanceList.xaml.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AttendanceList.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawG0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:49:32.049Z",
+              "WhenOpened": "2024-10-31T14:32:16.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeesManagementWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:36:09.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentsDAO.cs",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DepartmentsDAO.cs",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\DepartmentsDAO.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAawB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:43:14.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentsService.cs",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
-              "RelativeDocumentMoniker": "Services\\DepartmentsService.cs",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
-              "RelativeToolTip": "Services\\DepartmentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:36:22.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Employees.cs",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Employees.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowB8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:25:48.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WPFApp",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\WPFApp.csproj",
-              "RelativeDocumentMoniker": "WPFApp\\WPFApp.csproj",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\WPFApp.csproj",
-              "RelativeToolTip": "WPFApp\\WPFApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T08:20:12.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
-              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Title": "AttendanceList.xaml",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AttendanceList.xaml",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml",
+              "RelativeToolTip": "WPFApp\\AttendanceList.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-29T07:48:44.92Z",
+              "WhenOpened": "2024-10-31T14:30:55.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeesManagementWindow.xaml",
-              "DocumentMoniker": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml",
-              "ToolTip": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
-              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-29T07:13:37.16Z",
+              "Title": "EmployeeAttendance.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\EmployeeAttendance.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\EmployeeAttendance.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\EmployeeAttendance.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\EmployeeAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:21:52.672Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attendances.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Attendances.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Attendances.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:17:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PRN_EmployeeManagementContext.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:06:38.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceDAO.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AttendanceDAO.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AttendanceDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:28:35.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDetailWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml",
+              "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T07:42:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:49:32.049Z"
             }
           ]
         },

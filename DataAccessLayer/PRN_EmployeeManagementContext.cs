@@ -28,6 +28,8 @@ namespace DataAccessLayer
         public virtual DbSet<Notifications> Notifications { get; set; }
         public virtual DbSet<ActivityLogs> ActivityLogs { get; set; }
 
+        public virtual DbSet<SalaryModification> SalaryModifications { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             {
@@ -101,6 +103,26 @@ namespace DataAccessLayer
                     .HasForeignKey(d => d.EmployeeID)
                     .OnDelete(DeleteBehavior.Cascade);
             });
+            //
+
+            modelBuilder.Entity<SalaryModification>(entity =>
+            {
+                entity.ToTable("SalaryModification");
+
+                entity.Property(e => e.Id).HasColumnName("id");
+                entity.Property(e => e.Amount).HasColumnName("amount");
+                entity.Property(e => e.Date).HasColumnName("date");
+                entity.Property(e => e.Description)
+                    .HasMaxLength(100)
+                    .IsFixedLength()
+                    .HasColumnName("description");
+                entity.Property(e => e.EmployeeId).HasColumnName("employee_id");
+                entity.Property(e => e.Status)
+                    .HasMaxLength(10)
+                    .IsFixedLength()
+                    .HasColumnName("status");
+            });
+            //
 
             // Configure Attendance
             modelBuilder.Entity<Attendances>(entity =>

@@ -3411,23 +3411,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HÙNG\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "D:\\VisualCodeComponents\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\HÙNG\\.nuget\\packages\\",
-      "outputPath": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Services\\obj\\",
+      "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\VisualCodeComponents\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HÙNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3443,11 +3443,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\Local Repositories\\C# Source\\repo\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj"
+            "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\VisualStudio\\source\\repos\\New folder\\Project_PRN_EmployeeManagement\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -3488,7 +3488,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
