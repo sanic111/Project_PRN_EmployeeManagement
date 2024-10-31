@@ -21,13 +21,13 @@ namespace BusinessObjects.Models
         [Required]
         public int Year { get; set; }
 
-        public float Allowance { get; set; } = 0;
+        public double? Allowance { get; set; } 
 
-        public float Bonus { get; set; } = 0;
+        public double? Bonus { get; set; } 
 
-        public float Deduction { get; set; } = 0;
+        public double? Deduction { get; set; } 
 
-        public DateTime? PaymentDate { get; set; }
+        public DateOnly? PaymentDate { get; set; }
 
         [ForeignKey("EmployeeID")]
         public virtual Employees? Employees { get; set; }

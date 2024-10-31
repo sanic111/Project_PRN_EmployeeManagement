@@ -435,3 +435,13 @@ D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\ob
 D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\ref\WPFApp.dll
 D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\AttendanceList.g.cs
 D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\AttendanceList.baml
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\Home.g.cs
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\SalaryList.g.cs
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\Home.baml
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\SalaryList.baml
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\SalaryDetail.g.cs
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\SalaryDetail.baml
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\DepartmentList.g.cs
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\DepartmentDetail.g.cs
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\DepartmentDetail.baml
+D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\DepartmentList.baml

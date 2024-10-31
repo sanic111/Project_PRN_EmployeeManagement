@@ -10,13 +10,28 @@
     <Compile Update="AttendanceList.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DepartmentDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DepartmentList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="EmployeeDetailWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="EmployeesManagementWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ManagementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SalaryDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SalaryList.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="UserAccountManagement.xaml.cs">
@@ -27,16 +42,31 @@
     <Page Update="AttendanceList.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="DepartmentDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DepartmentList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="EmployeeDetailWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="EmployeesManagementWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ManagementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SalaryDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SalaryList.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UserAccountManagement.xaml">
