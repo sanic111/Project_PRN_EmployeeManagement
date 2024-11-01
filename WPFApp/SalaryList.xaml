@@ -17,7 +17,7 @@
         <!-- Left navigation menu using StackPanel and DockPanel -->
         <StackPanel DockPanel.Dock="Left" Width="150" Background="LightGray">
             <TextBlock Text="Salaries" FontSize="18" FontWeight="Bold" Margin="10"/>
-            <Button Content="Back To Home" Margin="5" Height="40" Width="137" Click="BackButton_Click"/>
+            <Button Content="Back To Home" Margin="5" Height="40" Width="137" Click="BackButton_Click" Background="#007ACC" Foreground="White" FontWeight="Bold"/>
         </StackPanel>
         <Canvas Width="646">
             <DataGrid x:Name="DataGridSalary" AutoGenerateColumns="False" Height="230" Width="562" Canvas.Left="12" Canvas.Top="12" HorizontalAlignment="Center" VerticalAlignment="Top" CanUserAddRows="False" SelectionChanged="DataGridSalary_SelectionChanged" >

@@ -197,5 +197,17 @@ namespace DataAccessLayer
                 }
             }
         }
+
+        public int GetnumberOfEmployeeOfADepartment(int departmentId)
+        {
+            using (var connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+                string sql = "SELECT COUNT(*) FROM Employees WHERE DepartmentID = @DepartmentID";
+                SqlCommand command = new SqlCommand(sql, connection);
+                command.Parameters.AddWithValue("@DepartmentID", departmentId);
+                return (int)command.ExecuteScalar();
+            }
+        }
     }
 }

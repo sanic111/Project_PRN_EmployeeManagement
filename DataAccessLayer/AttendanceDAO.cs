@@ -50,7 +50,7 @@ namespace DataAccessLayer
                             EmployeeName = x.employee.FullName,
                             CheckIn = attendance != null ? attendance.CheckIn : null,
                             CheckOut = attendance != null ? attendance.CheckOut : null,
-                            Date = attendance != null ? attendance.Date : DateOnly.FromDateTime(DateTime.Now),
+                            Date = attendance != null ? attendance.Date : date,
                             Status = attendance != null ? attendance.Status : "Absent"
                         }
                     ).Where(a => a.Date == date)

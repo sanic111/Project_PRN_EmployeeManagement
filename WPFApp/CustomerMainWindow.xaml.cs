@@ -15,20 +15,13 @@ using System.Windows.Shapes;
 namespace WPFApp
 {
     /// <summary>
-    /// Interaction logic for UserAccountManagement.xaml
+    /// Interaction logic for CustomerMainWindow.xaml
     /// </summary>
-    public partial class UserAccountManagement : Window
+    public partial class CustomerMainWindow : Window
     {
-        public UserAccountManagement()
+        public CustomerMainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Back_Click(object sender, RoutedEventArgs e)
-        {
-            ManagementWindow managementWindow = new ManagementWindow();
-            managementWindow.Show();
-            this.Close();
         }
     }
 }

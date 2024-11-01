@@ -17,7 +17,7 @@
         <!-- Left navigation menu using StackPanel and DockPanel -->
         <StackPanel DockPanel.Dock="Left" Width="150" Background="LightGray">
             <TextBlock Text="Attendance" FontSize="18" FontWeight="Bold" Margin="10"/>
-            <Button Content="Back To Home" Margin="5" Height="40" Width="137" Click="BackButton_Click"/>
+            <Button Content="Back To Home" Margin="5" Height="40" Width="137" Click="BackButton_Click"  Background="#007ACC" Foreground="White" FontWeight="Bold"/>
         </StackPanel>
         <Canvas x:Name="CheckinLate" Width="646">
             <DataGrid x:Name="DataGridAttendance" AutoGenerateColumns="False" Height="280" Width="525" Canvas.Left="10" Canvas.Top="52" HorizontalAlignment="Center" VerticalAlignment="Top" CanUserAddRows="False" >

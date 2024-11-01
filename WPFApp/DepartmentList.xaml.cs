@@ -55,7 +55,26 @@ namespace WPFApp
         }
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
-
+            int number_of_employees = 0;
+            DepartmentsDAO departmentDAO = new DepartmentsDAO();
+            Button deleteButton = (Button)sender;
+            int departmentId = (int)deleteButton.Tag;
+            number_of_employees = departmentDAO.GetnumberOfEmployeeOfADepartment(departmentId);
+            if (number_of_employees > 0)
+            {
+                MessageBox.Show("Cannot delete department with employees");
+                return;
+            }
+            bool result = departmentDAO.DeleteDepartment(departmentId);
+            if (result)
+            {
+                MessageBox.Show("Delete successfully");
+                LoadData();
+            }
+            else
+            {
+                MessageBox.Show("Delete failed");
+            }
         }
 
         private void DataGridDepartments_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -65,8 +84,8 @@ namespace WPFApp
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            Home home = new Home();
-            home.Show();
+            ManagementWindow managementWindow = new ManagementWindow();
+            managementWindow.Show();
             this.Close();
         }
 

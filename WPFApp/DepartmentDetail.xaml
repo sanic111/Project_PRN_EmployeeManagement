@@ -17,7 +17,7 @@
         <!-- Left navigation menu using StackPanel and DockPanel -->
         <StackPanel x:Name="Sidebar" DockPanel.Dock="Left" Width="150" Background="LightGray">
             <TextBlock FontSize="18" FontWeight="Bold" Margin="10" Height="59" Width="133"><Run Text="      New "/><LineBreak/><Run Text="Department"/></TextBlock>
-            <Button Content="Back To List" Margin="5" Height="40" Width="137" Click="BackButton_Click"/>
+            <Button Content="Back To List" Margin="5" Height="40" Width="137" Click="BackButton_Click" Background="#007ACC" Foreground="White" FontWeight="Bold"/>
         </StackPanel>
         <Canvas x:Name="Body" Width="646">
             <DataGrid x:Name="DataGridEmployee" AutoGenerateColumns="False" Height="299" Width="560" Canvas.Top="83" HorizontalAlignment="Left" VerticalAlignment="Center" CanUserAddRows="False">

@@ -28,8 +28,8 @@ namespace WPFApp
         }
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            Home home = new Home();
-            home.Show();
+            ManagementWindow managementWindow = new ManagementWindow();
+            managementWindow.Show();
             this.Close();
 
         }

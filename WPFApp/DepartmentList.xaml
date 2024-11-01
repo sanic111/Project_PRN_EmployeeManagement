@@ -17,8 +17,8 @@
         <!-- Left navigation menu using StackPanel and DockPanel -->
         <StackPanel DockPanel.Dock="Left" Width="150" Background="LightGray">
             <TextBlock Text="Departments" FontSize="18" FontWeight="Bold" Margin="10"/>
-            <Button x:Name="AddDepartment" Content="New Department" Margin="5" Height="40" Width="142" Click="AddButton_Click"/>
-            <Button Content="Back To Home" Margin="5" Height="40" Width="137" Click="BackButton_Click"/>
+            <Button x:Name="AddDepartment" Content="New Department" Margin="5" Height="40" Width="142" Click="AddButton_Click" Background="#007ACC" Foreground="White" FontWeight="Bold"/>
+            <Button Content="Back To Home" Margin="5" Height="40" Width="137" Click="BackButton_Click" Background="#007ACC" Foreground="White" FontWeight="Bold"/>
         </StackPanel>
         <Canvas Width="646">
             <DataGrid x:Name="DataGridDepartment" AutoGenerateColumns="False" Height="280" Width="510" Canvas.Left="12" Canvas.Top="52" HorizontalAlignment="Left" VerticalAlignment="Center" CanUserAddRows="False" Sorting="SortByNumberASc_Click">
@@ -37,10 +37,10 @@
                     </DataGridTemplateColumn>
 
                     <!-- Cột chứa nút Delete -->
-                    <DataGridTemplateColumn Header="Cancel" Width="75">
+                    <DataGridTemplateColumn Header="Delete" Width="75">
                         <DataGridTemplateColumn.CellTemplate>
                             <DataTemplate>
-                                <Button Content="Cancel" Click="DeleteButton_Click" Tag="{Binding Departmentd}"/>
+                                <Button Content="Delete" Click="DeleteButton_Click" Tag="{Binding Departmentd}"/>
                             </DataTemplate>
                         </DataGridTemplateColumn.CellTemplate>
                     </DataGridTemplateColumn>

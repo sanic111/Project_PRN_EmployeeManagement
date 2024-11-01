@@ -13,6 +13,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WPFApp
 {
@@ -35,8 +36,8 @@ namespace WPFApp
         }
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            Home home = new Home();
-            home.Show();
+            ManagementWindow managementWindow = new ManagementWindow();
+            managementWindow.Show();
             this.Close();
         }
 
@@ -108,7 +109,8 @@ namespace WPFApp
         private void AttendanceChange(object sender, SelectionChangedEventArgs e)
         {
             AttendanceDAO attendanceDAO = new AttendanceDAO();
-            List<EmployeeAttendance> employeeAttendances = attendanceDAO.GetEmployeeAttendancesInADay(DateOnly.FromDateTime(DateTime.Now));
+            DateOnly dateOnly = DateOnly.Parse(AttendanceIn.Text);
+            List<EmployeeAttendance> employeeAttendances = attendanceDAO.GetAllEmployeesWithAttendance(dateOnly);
             DataGridAttendance.ItemsSource = employeeAttendances;
         }
     }

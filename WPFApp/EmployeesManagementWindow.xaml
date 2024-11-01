@@ -35,6 +35,10 @@
                     Content="Delete Employee" Height="40" Margin="5"
                     Background="#007ACC" Foreground="White" FontWeight="Bold"
                     Click="DeleteEmployee_Click"/>
+            <Button x:Name="Back"
+                Content="Back To Home" Height="40"
+                Background="#007ACC" Foreground="White" FontWeight="Bold"
+                Click="BackToHome" Width="180"/>
         </StackPanel>
 
         <!-- Top Panel - Search & Filter -->

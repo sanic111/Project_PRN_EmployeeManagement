@@ -27,6 +27,7 @@ namespace DataAccessLayer
         public virtual DbSet<LeaveBalances> LeaveBalances { get; set; }
         public virtual DbSet<Notifications> Notifications { get; set; }
         public virtual DbSet<ActivityLogs> ActivityLogs { get; set; }
+        public virtual DbSet<Report> Reports { get; set; }
 
         public virtual DbSet<SalaryModification> SalaryModifications { get; set; }
 

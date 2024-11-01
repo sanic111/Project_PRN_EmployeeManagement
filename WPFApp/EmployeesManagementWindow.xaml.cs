@@ -199,5 +199,12 @@ namespace WPFApp
                 }
             }
         }
+
+        private void BackToHome(object sender, RoutedEventArgs e)
+        {
+            ManagementWindow managementWindow = new ManagementWindow();
+            managementWindow.Show();
+            this.Close();
+        }
     }
 }

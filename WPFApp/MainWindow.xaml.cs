@@ -32,15 +32,15 @@ namespace WPFApp
                     //Kiểm tra vai trò
                     if (user.RoleID == 1)
                     {
-                        this.Close();
                         ManagementWindow managementWindow = new ManagementWindow();
                         managementWindow.Show();
+                        this.Close();
                     }
                     else if (user.RoleID==2)
                     {
-                        this.Hide();
                         CustomerWindow customerWindow = new CustomerWindow(); // Tạo CustomerWindow
                         customerWindow.Show();
+                        this.Close();
                     }
                 }
                 else

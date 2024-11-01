@@ -21,16 +21,44 @@ namespace WPFApp
         }
         private void ManageUsersAccount_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
             UserAccountManagement userAccountManagementWindow = new UserAccountManagement();
-            userAccountManagementWindow.ShowDialog();
+            userAccountManagementWindow.Show();
+            this.Close();
         }
 
         private void ManageEmployeesAccount_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
             EmployeesManagementWindow employeesManagementWindow = new EmployeesManagementWindow();
-            employeesManagementWindow.ShowDialog();
+            employeesManagementWindow.Show();
+            this.Close();
+        }
+
+        private void ManageDepartment_Click(object sender, RoutedEventArgs e)
+        {
+            DepartmentList department = new DepartmentList();
+            department.Show();
+            this.Close();
+        }
+
+        private void ManageSalary_Click(object sender, RoutedEventArgs e)
+        {
+            SalaryList salary = new SalaryList();
+            salary.Show();
+            this.Close();
+        }
+
+        private void ManageAttendance_Click(object sender, RoutedEventArgs e)
+        {
+            AttendanceList attendance = new AttendanceList();
+            attendance.Show();
+            this.Close();
+        }
+
+        private void Logout_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            this.Close();
         }
     }
 }
