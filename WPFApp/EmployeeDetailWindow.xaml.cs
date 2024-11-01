@@ -25,6 +25,7 @@ namespace WPFApp
     {
         private readonly EmployeesService _employeesService;
         private readonly DepartmentsService _departmentsService;
+        private readonly UsersService _usersService;
         private readonly Employees? _employee;
         private string? _selectedImagePath;
         private bool _isEditMode;
@@ -33,6 +34,7 @@ namespace WPFApp
             InitializeComponent();
             _employeesService = new EmployeesService();
             _departmentsService = new DepartmentsService();
+            _usersService = new UsersService();
             _employee = employee;
             _isEditMode = employee != null;
 
@@ -42,6 +44,7 @@ namespace WPFApp
         private void LoadInitialData()
         {
             LoadDepartments();
+            LoadUnassignedUsers();
 
             if (_isEditMode && _employee != null)
             {
@@ -79,10 +82,10 @@ namespace WPFApp
             }
 
             TextBoxAddress.Text = _employee.Address;
-            TextBoxxtPhone.Text = _employee.Phone;
+            TextBoxPhone.Text = _employee.Phone;
             ComboBoxDepartment.SelectedValue = _employee.DepartmentID;
-            TextBoxxtPosition.Text = _employee.Position;
-            TextBoxtBaseSalary.Text = _employee.BaseSalary.ToString("N0");
+            TextBoxPosition.Text = _employee.Position;
+            TextBoxBaseSalary.Text = _employee.BaseSalary.ToString("N0");
             DatePickerStartDate.SelectedDate = _employee.StartDate;
 
             if (!string.IsNullOrEmpty(_employee.AvatarPath) && File.Exists(_employee.AvatarPath))
@@ -105,6 +108,30 @@ namespace WPFApp
             }
         }
 
+        private void LoadUnassignedUsers()
+        {
+            try
+            {
+                var users = _usersService.GetUnassignedUsers();
+                ComboBoxUser.ItemsSource = users;
+                ComboBoxUser.DisplayMemberPath = "Username";
+                ComboBoxUser.SelectedValuePath = "UserID";
+
+                if (_isEditMode && _employee?.UserID != null)
+                {
+                    var currentUser = _usersService.GetUserById(_employee.UserID.Value);
+                    if (currentUser != null)
+                    {
+                        users.Add(currentUser);
+                        ComboBoxUser.SelectedValue = currentUser.UserID;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error loading users: {ex.Message}");
+            }
+        }
 
         private void ButtonUploadImage_Click(object sender, RoutedEventArgs e)
         {
@@ -134,10 +161,21 @@ namespace WPFApp
 
             try
             {
-                // Nếu đang edit thì dùng employee hiện tại, nếu không thì tạo mới
-                var employee = _isEditMode ? _employee! : new Employees();
+                var employee = _isEditMode ? 
+                    new Employees { EmployeeID = _employee!.EmployeeID } : 
+                    new Employees();
 
-                // Xử lý ảnh
+                employee.FullName = TextBoxFullName.Text.Trim();
+                employee.BirthDate = DatePickerBirthDate.SelectedDate!.Value;
+                employee.Gender = (ComboBoxGender.SelectedItem as ComboBoxItem)?.Content.ToString();
+                employee.Address = TextBoxAddress.Text?.Trim();
+                employee.Phone = TextBoxPhone.Text?.Trim();
+                employee.DepartmentID = (int)ComboBoxDepartment.SelectedValue;
+                employee.Position = TextBoxPosition.Text?.Trim();
+                employee.BaseSalary = double.Parse(TextBoxBaseSalary.Text.Replace(",", ""));
+                employee.StartDate = DatePickerStartDate.SelectedDate!.Value;
+                employee.UserID = (int?)ComboBoxUser.SelectedValue;
+
                 if (!string.IsNullOrEmpty(_selectedImagePath))
                 {
                     try
@@ -145,7 +183,6 @@ namespace WPFApp
                         var fileName = $"{Guid.NewGuid()}{System.IO.Path.GetExtension(_selectedImagePath)}";
                         var imagesFolder = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images");
 
-                        // Tạo thư mục Images nếu chưa tồn tại
                         if (!Directory.Exists(imagesFolder))
                         {
                             Directory.CreateDirectory(imagesFolder);
@@ -158,42 +195,23 @@ namespace WPFApp
                     catch (Exception ex)
                     {
                         MessageBox.Show($"Lỗi khi lưu ảnh: {ex.Message}. Tiếp tục lưu thông tin nhân viên.");
+                        employee.AvatarPath = string.Empty;
                     }
-                }
-
-                // Gán các giá trị cho employee
-                employee.FullName = TextBoxFullName.Text.Trim();
-                employee.BirthDate = DatePickerBirthDate.SelectedDate!.Value;
-                employee.Gender = (ComboBoxGender.SelectedItem as ComboBoxItem)?.Content.ToString() ?? "Male";
-                employee.Address = TextBoxAddress.Text?.Trim() ?? string.Empty;
-                employee.Phone = TextBoxxtPhone.Text?.Trim() ?? string.Empty;
-                employee.DepartmentID = (int?)ComboBoxDepartment.SelectedValue ?? 1; // Giả sử 1 là ID mặc định
-                employee.Position = TextBoxxtPosition.Text?.Trim() ?? string.Empty;
-
-                // Xử lý BaseSalary
-                if (double.TryParse(TextBoxtBaseSalary.Text?.Replace(",", ""), out double salary))
-                {
-                    employee.BaseSalary = salary;
                 }
                 else
                 {
-                    employee.BaseSalary = 0;
+                    employee.AvatarPath = string.Empty;
                 }
 
-                employee.StartDate = DatePickerStartDate.SelectedDate!.Value;
-
-                // Lưu employee
                 if (_isEditMode)
                 {
                     _employeesService.UpdateEmployee(employee);
-                    MessageBox.Show("Cập nhật thông tin nhân viên thành công!", "Thông báo",
-                        MessageBoxButton.OK, MessageBoxImage.Information);
+                    MessageBox.Show("Employee updated successfully!");
                 }
                 else
                 {
                     _employeesService.AddEmployee(employee);
-                    MessageBox.Show("Thêm nhân viên mới thành công!", "Thông báo",
-                        MessageBoxButton.OK, MessageBoxImage.Information);
+                    MessageBox.Show("Employee added successfully!");
                 }
 
                 DialogResult = true;
@@ -201,8 +219,7 @@ namespace WPFApp
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Lỗi khi lưu thông tin: {ex.Message}\n\nChi tiết: {ex.StackTrace}",
-                    "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show($"Error saving employee: {ex.Message}");
             }
         }
 
@@ -242,11 +259,11 @@ namespace WPFApp
                 return false;
             }
 
-            if (string.IsNullOrWhiteSpace(TextBoxtBaseSalary.Text) ||
-                !double.TryParse(TextBoxtBaseSalary.Text.Replace(",", ""), out _))
+            if (string.IsNullOrWhiteSpace(TextBoxBaseSalary.Text) ||
+                !double.TryParse(TextBoxBaseSalary.Text.Replace(",", ""), out _))
             {
                 MessageBox.Show("Vui lòng nhập mức lương hợp lệ!", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Warning);
-                TextBoxtBaseSalary.Focus();
+                TextBoxBaseSalary.Focus();
                 return false;
             }
 
