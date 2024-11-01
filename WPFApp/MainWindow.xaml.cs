@@ -15,36 +15,41 @@ namespace WPFApp
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
-            string username = txtUserName.Text;
-            string password = txtPassWord.Password;
-
-            // Sử dụng DbContext để kiểm tra thông tin đăng nhập
-            using (var context = new PRN_EmployeeManagementContext())
+            try
             {
-                // Tìm kiếm người dùng theo tên đăng nhập
-                var user = context.Users
-                    .FirstOrDefault(u => u.Username == username && u.Password == password);
+                string username = txtUserName.Text;
+                string password = txtPassWord.Password;
 
-                if (user != null)
+                using (var context = new PRN_EmployeeManagementContext())
                 {
-                    // Kiểm tra vai trò
-                    if (user.RoleID == 1)
+                    var user = context.Users
+                       .FirstOrDefault(u => u.Username == username && u.Password == password);
+
+                    if (user != null)
                     {
-                        this.Hide();
-                        EmployeesManagementWindow managementWindow = new EmployeesManagementWindow();
-                        managementWindow.Show();
+                        // Kiểm tra vai trò
+                        if (user.RoleID == 1)
+                        {
+                            this.Hide();
+                            EmployeesManagementWindow managementWindow = new EmployeesManagementWindow();
+                            managementWindow.Show();
+                        }
+                        else if (user.RoleID == 2)
+                        {
+                            this.Hide();
+                            CustomerWindow customerWindow = new CustomerWindow(user);
+                            customerWindow.Show();
+                        }
                     }
-                    else if (user.RoleID == 2)
+                    else
                     {
-                        this.Hide();
-                        CustomerWindow customerWindow = new CustomerWindow(user);
-                        customerWindow.Show();
+                        MessageBox.Show("Thông tin tài khoản không chính xác. Vui lòng thử lại.");
                     }
                 }
-                else
-                {
-                    MessageBox.Show("Thông tin tài khoản không chính xác. Vui lòng thử lại.");
-                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Đã xảy ra lỗi: {ex.Message}", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
     }

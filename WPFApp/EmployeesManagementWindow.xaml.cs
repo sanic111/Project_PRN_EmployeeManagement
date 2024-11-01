@@ -27,8 +27,26 @@ namespace WPFApp
         public EmployeesManagementWindow()
         {
             InitializeComponent();
-            _employeesService = new();
+            InitializeServices();
             LoadInitialData();
+        }
+        private void InitializeServices()
+        {
+            _employeesService = new EmployeesService();
+            _departmentsService = new DepartmentsService();
+
+            // Thêm các tiêu chí tìm kiếm
+            ComboBoxSearchBy.Items.Clear();
+            ComboBoxSearchBy.Items.Add(new ComboBoxItem { Content = "Full Name" });
+            ComboBoxSearchBy.Items.Add(new ComboBoxItem { Content = "Department" });
+            ComboBoxSearchBy.Items.Add(new ComboBoxItem { Content = "Position" });
+
+            // Thêm các lựa chọn giới tính
+            ComboBoxGender.Items.Clear();
+            ComboBoxGender.Items.Add(new ComboBoxItem { Content = "All" });
+            ComboBoxGender.Items.Add(new ComboBoxItem { Content = "Male" });
+            ComboBoxGender.Items.Add(new ComboBoxItem { Content = "Female" });
+            ComboBoxGender.SelectedIndex = 0;
         }
         private void LoadInitialData()
         {
@@ -41,7 +59,9 @@ namespace WPFApp
         {
             try
             {
+                InitializeServices();
                 var employees = _employeesService.GetAllEmployees();
+                DataGridEmployees.ItemsSource = null;
                 DataGridEmployees.ItemsSource = employees;
             }
             catch (Exception ex)
@@ -54,7 +74,9 @@ namespace WPFApp
         {
             try
             {
+                InitializeServices(); // Tạo mới service để refresh context
                 var departments = _departmentsService.GetAllDepartments();
+                ComboBoxDepartment.ItemsSource = null;
                 ComboBoxDepartment.ItemsSource = departments;
             }
             catch (Exception ex)
@@ -152,6 +174,7 @@ namespace WPFApp
             var window = new EmployeeDetailWindow(selectedEmployee);
             if (window.ShowDialog() == true)
             {
+                InitializeServices(); // Tạo mới service trước khi load
                 LoadEmployees();
                 MessageBox.Show("Cập nhật thông tin nhân viên thành công!");
             }
@@ -176,6 +199,7 @@ namespace WPFApp
             {
                 try
                 {
+                    InitializeServices(); // Tạo mới service trước khi xóa
                     _employeesService.DeleteEmployee(selectedEmployee);
                     LoadEmployees();
                     MessageBox.Show("Xóa nhân viên thành công!");
@@ -185,15 +209,6 @@ namespace WPFApp
                     MessageBox.Show($"Lỗi khi xóa nhân viên: {ex.Message}");
                 }
             }
-        }
-        private void CheckOutButton_Click(object sender, RoutedEventArgs e)
-        {
-            // Close the current CustomerWindow
-            this.Close();
-
-            // Navigate to the MainWindow (login/homepage)
-            MainWindow mainWindow = new MainWindow();
-            mainWindow.Show();
         }
 
         private void DataGridEmployees_MouseDoubleClick(object sender, MouseButtonEventArgs e)
@@ -206,6 +221,55 @@ namespace WPFApp
                 {
                     LoadEmployees();
                 }
+            }
+        }
+
+        private void RefreshEmployee_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                // Clear các filter và search
+                TextBoxSearch.Clear();
+                ComboBoxSearchBy.SelectedIndex = -1;
+                ComboBoxDepartment.SelectedIndex = -1;
+                ComboBoxGender.SelectedIndex = 0; // Reset về "All"
+                TextBoxMinSalary.Clear();
+                TextBoxMaxSalary.Clear();
+
+                // Tạo mới services để refresh context
+                InitializeServices();
+
+                // Load lại dữ liệu
+                LoadEmployees();
+                LoadDepartments();
+
+                MessageBox.Show("Đã làm mới dữ liệu thành công!", "Thông báo",
+                    MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Lỗi khi làm mới dữ liệu: {ex.Message}", "Lỗi",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+        private void CheckOutButton_Click(object sender, RoutedEventArgs e)
+        {
+            // Close the current CustomerWindow
+            this.Close();
+
+            // Navigate to the MainWindow (login/homepage)
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+        }
+
+
+        private void CreateNewEmployeeAccount_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new CreateUserAccountWindow();
+            if (window.ShowDialog() == true)
+            {
+                LoadEmployees();
+                MessageBox.Show("Tạo tài khoản nhân viên mới thành công!");
             }
         }
     }
