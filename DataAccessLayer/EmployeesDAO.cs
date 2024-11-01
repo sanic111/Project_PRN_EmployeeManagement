@@ -11,11 +11,13 @@ namespace DataAccessLayer
 {
     public class EmployeesDAO
     {
-        private readonly PRN_EmployeeManagementContext _context;
-        public EmployeesDAO()
+        private static readonly PRN_EmployeeManagementContext _context;
+
+        static EmployeesDAO()
         {
-            _context = new();
+            _context = new PRN_EmployeeManagementContext();
         }
+
         public List<Employees> GetAll()
         {
             return _context.Employees.Include(e => e.Departments).ToList();
@@ -24,19 +26,44 @@ namespace DataAccessLayer
         public Employees GetById(int id)
         {
             return _context.Employees.Include(e => e.Departments).FirstOrDefault(e => e.EmployeeID == id) ??
-                   throw new KeyNotFoundException($"Employee with ID {id} not found");
+                throw new KeyNotFoundException($"Employee with ID {id} not found");
         }
         //Create
-        public void Add(Employees employees)
+        public void Add(Employees employee)
         {
             try
             {
-                _context.Employees.Add(employees);
-                _context.SaveChanges();
+                // Log thông tin employee trước khi thêm
+                Console.WriteLine($"Attempting to add employee: {employee.FullName}");
+                Console.WriteLine($"Department ID: {employee.DepartmentID}");
+                Console.WriteLine($"Birth Date: {employee.BirthDate}");
+                // ... log các thông tin khác
+
+                _context.Employees.Add(employee);
+                
+                try
+                {
+                    _context.SaveChanges();
+                }
+                catch (DbUpdateException dbEx)
+                {
+                    // Log inner exception chi tiết
+                    var innerException = dbEx.InnerException;
+                    while (innerException != null)
+                    {
+                        Console.WriteLine($"Inner Exception: {innerException.Message}");
+                        Console.WriteLine($"Stack Trace: {innerException.StackTrace}");
+                        innerException = innerException.InnerException;
+                    }
+                    throw;
+                }
             }
             catch (Exception ex)
             {
-                throw new Exception($"Error adding employee: {ex.Message}", ex);
+                throw new Exception($"Chi tiết lỗi khi thêm nhân viên:\n" +
+                    $"Message: {ex.Message}\n" +
+                    $"Stack Trace: {ex.StackTrace}\n" +
+                    $"Inner Exception: {ex.InnerException?.Message}", ex);
             }
         }
         //Update
@@ -47,10 +74,21 @@ namespace DataAccessLayer
                 var existingEmployee = _context.Employees.Find(employees.EmployeeID);
                 if (existingEmployee == null)
                 {
-                    throw new KeyNotFoundException($"Employee with ID {employees.EmployeeID} not found");
+                    throw new Exception($"Employee with ID {employees.EmployeeID} not found");
                 }
 
-                _context.Entry(existingEmployee).CurrentValues.SetValues(employees);
+                // Cập nhật từng trường thay vì dùng SetValues
+                existingEmployee.FullName = employees.FullName;
+                existingEmployee.BirthDate = employees.BirthDate;
+                existingEmployee.Gender = employees.Gender;
+                existingEmployee.Address = employees.Address;
+                existingEmployee.Phone = employees.Phone;
+                existingEmployee.DepartmentID = employees.DepartmentID;
+                existingEmployee.Position = employees.Position;
+                existingEmployee.BaseSalary = employees.BaseSalary;
+                existingEmployee.StartDate = employees.StartDate;
+                existingEmployee.AvatarPath = employees.AvatarPath;
+
                 _context.SaveChanges();
             }
             catch (Exception ex)
