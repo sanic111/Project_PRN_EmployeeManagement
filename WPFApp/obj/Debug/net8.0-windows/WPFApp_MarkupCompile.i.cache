@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\App.xaml
-121886401521
+15777276795
 
-181103026190
+21-363312504
 252357265262
-AttendanceList.xaml;CustomerWindow.xaml;DepartmentDetail.xaml;DepartmentList.xaml;EmployeeDetailWindow.xaml;EmployeesManagementWindow.xaml;Home.xaml;MainWindow.xaml;ManagementWindow.xaml;SalaryDetail.xaml;SalaryList.xaml;UserAccountManagement.xaml;
+AttendanceList.xaml;CustomerMainWindow.xaml;CustomerWindow.xaml;DepartmentDetail.xaml;DepartmentList.xaml;EmployeeDetailWindow.xaml;EmployeesManagementWindow.xaml;GenerateWindow.xaml;Home.xaml;MainWindow.xaml;ManagementWindow.xaml;ReportWindow.xaml;SalaryDetail.xaml;SalaryList.xaml;UserAccountManagement.xaml;
 
-True
+False
 
