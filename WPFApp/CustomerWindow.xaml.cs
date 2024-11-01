@@ -1,62 +1,107 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Windows;
-using System.Windows.Forms;
+using DataAccessLayer;
 using BusinessObjects.Models;
-using DataAccessLayer; // Ensure this is using your actual namespace
 
 namespace WPFApp
 {
     public partial class CustomerWindow : Window
     {
-        private PRN_EmployeeManagementContext _context;
+        private Users currentUser;
+        private EmployeesDAO employeesDAO;
+        private DepartmentsDAO departmentsDAO;
+        private AttendanceDAO attendanceDAO;
 
-        public CustomerWindow()
+        public CustomerWindow(Users user)
         {
             InitializeComponent();
-            _context = new PRN_EmployeeManagementContext();
-            LoadEmployees();
+            currentUser = user;
+            employeesDAO = new EmployeesDAO();
+            departmentsDAO = new DepartmentsDAO();
+            attendanceDAO = new AttendanceDAO();
         }
 
-        private void LoadEmployees()
+        private void ShowSection(string section)
         {
-            dgEmployees.ItemsSource = _context.Employees.ToList();
+            DefaultContent.Visibility = Visibility.Collapsed;
+            DepartmentSection.Visibility = section == "Department" ? Visibility.Visible : Visibility.Collapsed;
+            AttendanceSection.Visibility = section == "Attendance" ? Visibility.Visible : Visibility.Collapsed;
+            SalarySection.Visibility = section == "Salary" ? Visibility.Visible : Visibility.Collapsed;
         }
 
-        private void Save_Click(object sender, RoutedEventArgs e)
+        private void DepartmentButton_Click(object sender, RoutedEventArgs e)
         {
-            var employee = new Employees
+            ShowSection("Department");
+            LoadDepartments();
+        }
+
+        private void AttendanceButton_Click(object sender, RoutedEventArgs e)
+        {
+            ShowSection("Attendance");
+            LoadAttendance();
+        }
+
+        private void SalaryButtonClick(object sender, RoutedEventArgs e)
+        {
+            ShowSection("Salary");
+            LoadSalaries();
+        }
+
+        private void LoadDepartments()
+        {
+            try
             {
-                FullName = txtFullName.Text,
-                BirthDate = dpBirthDate.SelectedDate.Value
-                // Initialize other properties as needed
-            };
-
-            _context.Employees.Add(employee);
-            _context.SaveChanges();
-            LoadEmployees();
-        }
-
-        private void Update_Click(object sender, RoutedEventArgs e)
-        {
-            if (dgEmployees.SelectedItem is Employees selectedEmployee)
+                var departments = departmentsDAO.GetAll();
+                DataGridDepartments.ItemsSource = departments;
+            }
+            catch (Exception ex)
             {
-                selectedEmployee.FullName = txtFullName.Text;
-                selectedEmployee.BirthDate = dpBirthDate.SelectedDate.Value;
-                // Update other properties as needed
-
-                _context.SaveChanges();
-                LoadEmployees();
+                MessageBox.Show($"Error loading department data: {ex.Message}");
             }
         }
 
-        private void Delete_Click(object sender, RoutedEventArgs e)
+        private void LoadAttendance()
         {
-            if (dgEmployees.SelectedItem is Employees selectedEmployee)
+            try
             {
-                _context.Employees.Remove(selectedEmployee);
-                _context.SaveChanges();
-                LoadEmployees();
+                var date = DateTime.Now.Date; // Or allow user to select date
+                var attendanceList = attendanceDAO.GetEmployeeAttendancesInADay(date);
+                DataGridAttendance.ItemsSource = attendanceList;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error loading attendance data: {ex.Message}");
             }
         }
+
+        private void LoadSalaries()
+        {
+            try
+            {
+                var salaries = employeesDAO.GetAll(); // Adjust if needed to fetch salary-specific data
+                DataGridSalaries.ItemsSource = salaries;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error loading salary data: {ex.Message}");
+            }
+        }
+
+        private void CheckInButtonClick(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Check-in functionality not implemented yet.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private void CheckOutButtonClick(object sender, RoutedEventArgs e)
+        {
+            // Close the current CustomerWindow
+            this.Close();
+
+            // Navigate to the MainWindow (login/homepage)
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+        }
+
     }
 }

@@ -33,6 +33,10 @@ namespace DataAccessLayer
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.EnableDetailedErrors()
+                         .EnableSensitiveDataLogging(); // Chỉ dùng trong development
+
             {
                 var ConnectionString = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("EmployeeManagementDB");
                 optionsBuilder.UseSqlServer(ConnectionString);
