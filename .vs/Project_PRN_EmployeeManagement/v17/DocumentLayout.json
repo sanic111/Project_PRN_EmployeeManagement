@@ -149,11 +149,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:50:58.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -190,19 +203,6 @@
               "RelativeToolTip": "WPFApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-29T08:20:35.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T06:50:58.31Z",
               "EditorCaption": ""
             },
             {
