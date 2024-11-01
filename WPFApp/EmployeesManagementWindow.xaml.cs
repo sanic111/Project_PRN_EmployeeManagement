@@ -186,6 +186,15 @@ namespace WPFApp
                 }
             }
         }
+        private void CheckOutButton_Click(object sender, RoutedEventArgs e)
+        {
+            // Close the current CustomerWindow
+            this.Close();
+
+            // Navigate to the MainWindow (login/homepage)
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+        }
 
         private void DataGridEmployees_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {

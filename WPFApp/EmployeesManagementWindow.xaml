@@ -35,10 +35,17 @@
                     Content="Delete Employee" Height="40" Margin="5"
                    Background="LightBlue" Foreground="Black" FontWeight="Bold"
                     Click="DeleteEmployee_Click"/>
+            
             <Button x:Name="AttendanceCheck"
-                Content="Attendance Check" Height="40"
+                Content="Attendance Check" Height="40" Margin="5"
                 Background="LightBlue" Foreground="Black" FontWeight="Bold"
                 Click="DeleteEmployee_Click" Width="180"/>
+
+            <Button x:Name="CheckoutButton"
+     Content="Checkout" Height="64" 
+     Background="#355F8B" Foreground="White" FontWeight="Bold"
+     Click="CheckOutButton_Click" Width="180"/>
+
         </StackPanel>
 
         <!-- Top Panel - Search & Filter -->
