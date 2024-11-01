@@ -25,23 +25,28 @@
         </StackPanel>
 
         <!-- Main Content Area with a Placeholder Section -->
-        <Grid Background="White" Margin="10">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="Auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+        <Grid x:Name="MainContentGrid" Margin="10">
+            <!-- Default Content -->
+            <TextBlock x:Name="DefaultContent" Text="Please select an option from the menu on the left."
+                       FontSize="16" Foreground="Gray" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 
-            <!-- Section Header in Main Content Area -->
-            <TextBlock x:Name="SectionHeader" Text="Welcome to Employee Management System" FontSize="24" FontWeight="Bold"
-                       Foreground="#3A7CA5" HorizontalAlignment="Center" Margin="10"/>
+            <!-- Department Management Section -->
+            <StackPanel x:Name="DepartmentSection" Visibility="Collapsed">
+                <TextBlock Text="Department Management" FontSize="18" Margin="10"/>
+                <DataGrid x:Name="DataGridDepartments" AutoGenerateColumns="True" Margin="10"/>
+            </StackPanel>
 
-            <!-- Placeholder for Dynamic Content Below the Header -->
-            <Border Grid.Row="1" Margin="10" Background="#F9F9F9" BorderBrush="#DDD" BorderThickness="1">
-                <TextBlock Text="Please select an option from the menu on the left." 
-                           FontSize="16" Foreground="#555" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap"/>
-            </Border>
+            <!-- Attendance Management Section -->
+            <StackPanel x:Name="AttendanceSection" Visibility="Collapsed">
+                <TextBlock Text="Attendance Management" FontSize="18" Margin="10"/>
+                <DataGrid x:Name="DataGridAttendance" AutoGenerateColumns="True" Margin="10"/>
+            </StackPanel>
+
+            <!-- Salary Management Section -->
+            <StackPanel x:Name="SalarySection" Visibility="Collapsed">
+                <TextBlock Text="Salary Management" FontSize="18" Margin="10"/>
+                <DataGrid x:Name="DataGridSalaries" AutoGenerateColumns="True" Margin="10"/>
+            </StackPanel>
         </Grid>
-
-       
     </DockPanel>
 </Window>

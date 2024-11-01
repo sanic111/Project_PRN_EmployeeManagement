@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\texttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\texttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\attendancelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\attendancelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\employeesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\departmentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\attendancedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\activitylogsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\activitylogsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,38 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\attendancelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\attendancelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeesmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\employeedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -106,32 +122,12 @@
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\attendancelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\attendancelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5529C4A7-2BD4-4583-B89C-9588D2E2A620}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\useraccountmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\useraccountmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\texttovisibilityconverter.cs~rf93453b.tmp||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\texttovisibilityconverter.cs~rf93453b.tmp||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\wpfapp\\texttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47D81A9-383F-4C35-A278-70311CEBF6F9}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\texttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC49C8A8-53C6-466E-9A9D-11D7AD74646A}|Services\\Services.csproj|solutionrelative:services\\departmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68840927-81A9-4C1D-A51E-45430513DE9C}|BusinessObjects\\BusinessObjects.csproj|d:\\universitydocuments\\allsubjects\\prn212\\gitcloneproject\\project_prn_employeemanagement\\project_prn_employeemanagement\\project_prn_employeemanagement\\businessobjects\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -145,7 +141,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,202 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeaveBalancesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\LeaveBalancesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\LeaveBalancesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\LeaveBalancesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\LeaveBalancesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:38.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\EmployeesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\EmployeesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\EmployeesDAO.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:36.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\CustomerWindow.xaml.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAmwHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:57:56.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAWwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T06:50:58.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\UsersDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UsersDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\UsersDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\UsersDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:45.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SalariesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\SalariesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\SalariesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\SalariesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\SalariesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:20.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RolesDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\RolesDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\RolesDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\RolesDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\RolesDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:26.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PRN_EmployeeManagementContext.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:48:54.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\Program.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Program.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\Program.cs",
-              "RelativeToolTip": "DataAccessLayer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:42.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NotificationsDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\NotificationsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\NotificationsDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\NotificationsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\NotificationsDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:55:39.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AttendanceDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\AttendanceDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\AttendanceDAO.cs",
-              "ViewState": "AgIAACoBAAAAAAAAAAAmwEIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:55:07.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ActivityLogsDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\ActivityLogsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ActivityLogsDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\ActivityLogsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\ActivityLogsDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:55:06.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentsDAO.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DepartmentsDAO.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\DepartmentsDAO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:55:09.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Salaries.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Salaries.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Salaries.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Salaries.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Salaries.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:53:34.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Attendances.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Attendances.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\Attendances.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:53:25.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "CustomerWindow.xaml",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml",
@@ -360,71 +161,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\CustomerWindow.xaml.cs*",
+              "RelativeToolTip": "WPFApp\\CustomerWindow.xaml.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:57:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\TextToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\TextToVisibilityConverter.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\TextToVisibilityConverter.cs",
+              "RelativeToolTip": "WPFApp\\TextToVisibilityConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:18:31.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EmployeesService.cs",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\EmployeesService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeesService.cs",
               "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\EmployeesService.cs",
               "RelativeToolTip": "Services\\EmployeesService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T21:26:33.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmployeesManagementWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAMoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:59:29.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AttendanceList.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\AttendanceList.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml.cs",
-              "RelativeToolTip": "WPFApp\\AttendanceList.xaml.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAmwHIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:29:35.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmployeeDetailWindow.xaml.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAAAmwAcBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:02:04.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EmployeesManagementWindow.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
-              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T19:53:38.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
@@ -436,19 +212,269 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 7,
+              "Title": "EmployeesManagementWindow.xaml",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml",
+              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T22:13:57.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeeDetailWindow.xaml",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml",
               "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml",
               "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T19:54:40.507Z",
+              "WhenOpened": "2024-10-31T22:29:47.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\EmployeeDetailWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:49:05.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Users.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Users.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Users.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:41:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:50:58.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceList.xaml",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AttendanceList.xaml",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml",
+              "RelativeToolTip": "WPFApp\\AttendanceList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T22:30:17.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:20:59.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\EmployeesManagementWindow.xaml.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\EmployeesManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\EmployeesManagementWindow.xaml.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAiwMYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:16:36.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\UsersDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UsersDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\UsersDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UsersDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalariesDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\SalariesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SalariesDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\SalariesDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\SalariesDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RolesDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\RolesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RolesDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\RolesDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RolesDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:26.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendanceDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AttendanceDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\AttendanceDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AttendanceDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:55:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PRN_EmployeeManagementContext.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\PRN_EmployeeManagementContext.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:48:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Program.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\Program.cs",
+              "RelativeToolTip": "DataAccessLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:42.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentsService.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
+              "RelativeDocumentMoniker": "Services\\DepartmentsService.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
+              "RelativeToolTip": "Services\\DepartmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:20:58.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\EmployeesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeesDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\EmployeesDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\EmployeesDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveBalancesDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\LeaveBalancesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\LeaveBalancesDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\LeaveBalancesDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\LeaveBalancesDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:38.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotificationsDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\NotificationsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\NotificationsDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\NotificationsDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\NotificationsDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:55:39.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ActivityLogsDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\ActivityLogsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ActivityLogsDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\ActivityLogsDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ActivityLogsDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:55:06.426Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "DepartmentsDAO.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DepartmentsDAO.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DepartmentsDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DepartmentsDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:55:09.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Salaries.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Salaries.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Salaries.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Salaries.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Salaries.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:53:34.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Attendances.cs",
+              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Attendances.cs",
+              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Attendances.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Attendances.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:53:25.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\App.xaml",
               "RelativeDocumentMoniker": "WPFApp\\App.xaml",
@@ -460,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\legion\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "ToolTip": "C:\\Users\\legion\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
@@ -471,19 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AttendanceList.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\AttendanceList.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AttendanceList.xaml",
-              "RelativeToolTip": "WPFApp\\AttendanceList.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T20:20:38.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\appsettings.json",
               "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
@@ -491,13 +505,12 @@
               "RelativeToolTip": "WPFApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T19:52:53.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T19:52:53.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DataAccessLayer",
+              "DocumentIndex": 30,
+              "Title": "DataAccessLayer.csproj",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj",
               "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
               "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\DataAccessLayer\\DataAccessLayer.csproj",
@@ -509,32 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WPFApp\\AssemblyInfo.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\AssemblyInfo.cs",
-              "RelativeToolTip": "WPFApp\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:20:59.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserAccountManagement.xaml",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\UserAccountManagement.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\UserAccountManagement.xaml",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\UserAccountManagement.xaml",
-              "RelativeToolTip": "WPFApp\\UserAccountManagement.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T19:56:58.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "TextToVisibilityConverter.cs~RF93453b.TMP",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\TextToVisibilityConverter.cs~RF93453b.TMP",
               "RelativeDocumentMoniker": "WPFApp\\TextToVisibilityConverter.cs~RF93453b.TMP",
@@ -542,38 +530,11 @@
               "RelativeToolTip": "WPFApp\\TextToVisibilityConverter.cs~RF93453b.TMP",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-31T20:18:33.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TextToVisibilityConverter.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\TextToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "WPFApp\\TextToVisibilityConverter.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\WPFApp\\TextToVisibilityConverter.cs",
-              "RelativeToolTip": "WPFApp\\TextToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:18:31.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:18:33.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "DepartmentsService.cs",
-              "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
-              "RelativeDocumentMoniker": "Services\\DepartmentsService.cs",
-              "ToolTip": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Services\\DepartmentsService.cs",
-              "RelativeToolTip": "Services\\DepartmentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:20:58.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "Employees.cs",
               "DocumentMoniker": "D:\\UniversityDocuments\\AllSubjects\\PRN212\\gitCloneProject\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\Project_PRN_EmployeeManagement\\BusinessObjects\\Models\\Employees.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Models\\Employees.cs",
@@ -581,8 +542,7 @@
               "RelativeToolTip": "BusinessObjects\\Models\\Employees.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T07:33:17.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T07:33:17.736Z"
             }
           ]
         }

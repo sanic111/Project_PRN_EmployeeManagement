@@ -3,8 +3,7 @@ using System.Linq;
 using System.Windows;
 using DataAccessLayer; // Thêm namespace cho DbContext
 using BusinessObjects.Models; // Thêm namespace cho models
-using Microsoft.EntityFrameworkCore;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+
 namespace WPFApp
 {
     public partial class MainWindow : Window
@@ -38,7 +37,7 @@ namespace WPFApp
                     else if (user.RoleID == 2)
                     {
                         this.Hide();
-                        CustomerWindow customerWindow = new CustomerWindow("Customer"); // Pass "Customer" as role
+                        CustomerWindow customerWindow = new CustomerWindow(user);
                         customerWindow.Show();
                     }
                 }
@@ -48,6 +47,5 @@ namespace WPFApp
                 }
             }
         }
-
     }
 }
