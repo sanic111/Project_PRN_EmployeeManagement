@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\
+D:\Local Repositories\C# Source\repo\Project_PRN_EmployeeManagement\WPFApp\obj\Debug\net8.0-windows\
 WPFApp
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\VisualStudio\source\repos\New folder\Project_PRN_EmployeeManagement\WPFApp\App.xaml
+D:\Local Repositories\C# Source\repo\Project_PRN_EmployeeManagement\WPFApp\App.xaml
 6-1945516684
 
 12-1811174997
-202-1613595044
+252-610557269
 CustomerWindow.xaml;EmployeeDetailWindow.xaml;EmployeesManagementWindow.xaml;MainWindow.xaml;ManagementWindow.xaml;UserAccountManagement.xaml;
 
-True
+False
 
